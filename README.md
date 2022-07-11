@@ -1,4 +1,4 @@
-## Hi, I'm dav-par a Junior DevOps Consultant
+## Hi, I'm dav-par a junior devops consultant
 
 
 ### I'm currently learning:
