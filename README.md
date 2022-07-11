@@ -10,7 +10,7 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623Ce4?style=flat&logo=Terraform&logoColor=white)
 
-![Python]
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
 
 ### I'm interested in:
 - automation
@@ -19,8 +19,8 @@
 - create a complete CICD pipeline
 - Home automation using home assistant
 
+### Goals
+- AWS certification
+- K8 certification
 
-
-I want to get more comfortable with AWS and K8 with plans to get my certifications in both
-
-![florent-haxhiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dav-par&show_icons=true&theme=cobalt)
+![dav-par's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dav-par&show_icons=true&theme=cobalt)
