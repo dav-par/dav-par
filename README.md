@@ -18,6 +18,7 @@
 ### Current projects
 - create a complete CICD pipeline
 - Home automation using home assistant
+- get more fluid with vim
 
 ### Goals
 - AWS certification
