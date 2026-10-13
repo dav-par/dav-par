@@ -18,9 +18,4 @@
 ### Current projects
 - Home automation using home assistant
 
-### Goals
-- ISTQB foundation testing - COMPLETE
-- AWS certification
-- K8 certification
-
 ![dav-par's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dav-par&show_icons=true&theme=cobalt)
